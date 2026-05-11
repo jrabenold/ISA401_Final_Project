@@ -8,8 +8,11 @@
 
 ## Project Overview
 
-In this project, we .... 
-
+Driven by a passion for cinema, this project analyzes over 2,500 popular films released between 2000 and 2025 to determine which statistical factors—such as budget, 
+runtime, popularity, and production pedigree—best predict an Academy Award for Best Picture. By integrating data from TheMovieDataBase API with scraped historical 
+Oscar results, we performed a comprehensive cleaning and joining process to evaluate the "anatomy" of a winner. Our findings revealed a surprising lack of statistical 
+evidence linking "household name" directors or producers to a guaranteed win, suggesting that while prestige opens doors, the Best Picture title is influenced by a more 
+complex interplay of metrics than industry status alone.
 
 ## Artifacts
 
